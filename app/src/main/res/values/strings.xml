@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CameraSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="quickImg_shortcut_short_label1">Take a picture.</string>
+    <string name="quickImg_shortcut_long_label1">Application shortcut to take a picture.</string>
+    <string name="quickImg_disabled_message1">Something is clowned and things don't work.</string>
+</resources>
