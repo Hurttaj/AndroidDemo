@@ -1,11 +1,11 @@
-<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+<shortcuts xmlns:android="http://schemas.android.com/apk/lib/android">
 <shortcut
     android:shortcutId="quickImg"
     android:enabled="true"
     android:icon="@drawable/quickimg_icon"
-    android:shortcutShortLabel="@string/quickImg_shortcut_short_label1"
-    android:shortcutLongLabel="@string/quickImg_shortcut_long_label1"
-    android:shortcutDisabledMessage="@string/quickImg_disabled_message1">
+    android:shortcutShortLabel="string/quickImg_shortcut_short_label1"
+    android:shortcutLongLabel="string/quickImg_shortcut_long_label1"
+    android:shortcutDisabledMessage="string/quickImg_disabled_message1">
     <intent
         android:action="android.intent.action.ACTION_IMAGE_CAPTURE"
         android:targetPackage="com.demo.shortcut.camera"
